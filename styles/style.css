@@ -49,6 +49,7 @@ img{
 }
 #menuNav li:hover ul{
     display: block;
+
 }
 #menuNav ul li a{
     display: inline-block;
@@ -73,6 +74,16 @@ img{
 h2,p{
     margin: 5% 2%;
 }
+h2{
+    text-align: center;
+}
 p{
     font-size: 20px;
+    text-align: justify;
 }
+
+
+
+.container-food > img{
+    margin-left: 25%;
+    }
