@@ -17,6 +17,9 @@ header {
 
   /* padding: 0 20px; */
 }
+#icono {
+  width: 100px;
+}
 img {
   width: 10%;
   border-radius: 50px;
@@ -25,18 +28,22 @@ img {
   width: 100%;
 }
 #menuNav {
-  margin-top: 2%;
   text-align: center;
-  margin-left: auto;
   color: cornsilk;
   line-height: 40px;
   font-size: 1em;
   cursor: pointer;
-  width: 100%;
+  width: 50%;
+  margin: auto;
+  padding-top: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #menuNav ul {
   display: inline-block;
   margin-left: auto;
+  margin: auto;
 }
 #menuNav ul li {
   display: inline-block;
