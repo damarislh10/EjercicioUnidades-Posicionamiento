@@ -41,8 +41,6 @@ img {
   align-items: center;
 }
 #menuNav ul {
-  display: inline-block;
-  margin-left: auto;
   margin: auto;
 }
 #menuNav ul li {
